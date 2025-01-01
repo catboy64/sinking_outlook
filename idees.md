@@ -8,7 +8,10 @@ int main()
 # But principal
 rendre l'acte d'étudier le moindrement moins plate en *gamifyen* l'acte d'étudier.
 
-De plus, être capable de terminer les projets et étudier plus simplement me semble incroyable
+De plus, être capable de terminer les projets et étudier plus simplement me semble incroyable.
+
+## Comment cela sera fait.
+gt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTc4Nzc1OF19
+eyJoaXN0b3J5IjpbLTEyNTYyNjMwNjhdfQ==
 -->
