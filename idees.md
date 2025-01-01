@@ -10,7 +10,7 @@ rendre l'acte d'étudier le moindrement moins plate en *gamifyen* l'acte d'étud
 
 De plus, être capable de terminer les projets et étudier plus simplement me semble incroyable.
 
-## Comment cela sera fait
+# Comment cela sera fait
 Pour une personne normale, étudier prend une quantité phénoménale de stuff. la matière doit être
 1. appris en classe 
 2. noté d'une manière ou une autre
@@ -19,7 +19,7 @@ Pour une personne normale, étudier prend une quantité phénoménale de stuff. 
 
 Nous ne pouvons pas vraiment changer 1, 2 ou 4. Donc, nous devons nous concentrer sur l'application dans les exercices
 
-### offres 
+## offres compétitives
 
 une autre platforme offre un service similaire à celui que je cherche à offrir. Par contre, elle n'offre pas de raison convaicante de continuer les exercices. Pourquoi terminer tout ces travaux alors qu'il est juste possible de faire *n'importe quoi d'autre*. Une troisième platforme offre un autre partie du casse-tête : ClassCraft. Celui-ci offre un service de *gamification* de l'apprentissage en donnant un système d'expérience et **loot**. Par contre, par expérience première, c'est ***crissment^2^*** plate. Principalement parce que 
 - Le loot ne sert à rien, c'est un fit que tu flex sur les autres.
@@ -27,7 +27,8 @@ une autre platforme offre un service similaire à celui que je cherche à offrir
 - simplement pas de progression.
 	- avec un amis, je l'ai fait! j'ai atteint le niveau maximal possible dans la version gratuite. malgré cela, j'étais quand même autant prêt que les autres étudiants à faire l'examen. Pourquoi donc le faire?
 
-
+## notre solution
+nous souhaitons donc combiner 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNTg4MzAwXX0=
+eyJoaXN0b3J5IjpbMjM2NDgzMTg0XX0=
 -->
