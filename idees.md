@@ -14,10 +14,12 @@ De plus, être capable de terminer les projets et étudier plus simplement me se
 Pour une personne normale, étudier prend une quantité phénoménale de stuff. la matière doit être
 1. appris en classe 
 2. noté d'une manière ou une autre
-3. appliqué à travers les exercices et travaux pratiques et finalement
+3. appliqué à travers les exercices et travaux pratiques 
 4. appliqué à l'examen
 
-Nous ne pouvons pas vraiment changer 1, 2 ou 4. Donc, nous 
+Nous ne pouvons pas vraiment changer 1, 2 ou 4. Donc, nous devons nous concentrer sur l'application dans les exercices
+
+une autre platforme offre un service similaire à celui que je cherche à offrir, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE2OTgxNjRdfQ==
+eyJoaXN0b3J5IjpbLTQxNzI2NDgxXX0=
 -->
