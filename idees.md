@@ -1,10 +1,6 @@
-```cpp
-int main()
-{
-	std::cout << "hello world\n";
-}
-```
-	
+
+
+
 # But principal
 rendre l'acte d'étudier le moindrement moins plate en *gamifyen* l'acte d'étudier.
 
@@ -28,7 +24,7 @@ une autre platforme offre un service similaire à celui que je cherche à offrir
 	- avec un amis, je l'ai fait! j'ai atteint le niveau maximal possible dans la version gratuite. malgré cela, j'étais quand même autant prêt que les autres étudiants à faire l'examen. Pourquoi donc le faire?
 
 ## notre solution
-nous souhaitons donc combiner 
+nous souhaitons donc combiner nos apprentissages pour en faire une plateforme plus accessible et agréable en `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NDgzMTg0XX0=
+eyJoaXN0b3J5IjpbLTExMjk3ODAwOTRdfQ==
 -->
