@@ -10,8 +10,8 @@ rendre l'acte d'étudier le moindrement moins plate en *gamifyen* l'acte d'étud
 
 De plus, être capable de terminer les projets et étudier plus simplement me semble incroyable.
 
-## Comment cela sera fait.
-gt
+## Comment cela sera fait
+Pour une personne normale, étudier prend une quantité phénoménale de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYyNjMwNjhdfQ==
+eyJoaXN0b3J5IjpbLTYyNzkzMTg0Nl19
 -->
