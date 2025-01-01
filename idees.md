@@ -26,7 +26,7 @@ une autre platforme offre un service similaire à celui que je cherche à offrir
 ## notre solution
 nous souhaitons donc combiner nos apprentissages pour en faire une plateforme plus accessible et agréable en `C++` pour en apprendre plus sur le *low level coding*.  
 
-donc, notre plateforme sera utilisé en combinaison avec un jeu pour fornir une boucle de dopamine similaire à celle donnée par les jeux vidéos. Donc, donner une offre alternative au jeux vidéos comme source de gratification et en même temps 
+donc, notre plateforme sera utilisé en combinaison avec un jeu pour fornir une boucle de dopamine similaire à celle donnée par les jeux vidéos. Donc, donner une offre alternative au jeux vidéos comme source de gratification et en même temps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk3OTU0NDldfQ==
+eyJoaXN0b3J5IjpbLTI3NzgxMjQyM119
 -->
