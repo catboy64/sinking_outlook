@@ -19,7 +19,7 @@ Pour une personne normale, étudier prend une quantité phénoménale de stuff. 
 
 Nous ne pouvons pas vraiment changer 1, 2 ou 4. Donc, nous devons nous concentrer sur l'application dans les exercices
 
-une autre platforme offre un service similaire à celui que je cherche à offrir. Par contre, elle n'offre pas de raison convaicante de continuer les exercices. Pourquoi terminer tout ces travaux alors qu'il est juste possible de faire *n'importe quoi d'autre*. Une troisième platforme offre un autre partie du casse-tête : ClassCraft. Celui-ci offre un service de *gamification* de l'apprentissage
+une autre platforme offre un service similaire à celui que je cherche à offrir. Par contre, elle n'offre pas de raison convaicante de continuer les exercices. Pourquoi terminer tout ces travaux alors qu'il est juste possible de faire *n'importe quoi d'autre*. Une troisième platforme offre un autre partie du casse-tête : ClassCraft. Celui-ci offre un service de *gamification* de l'apprentissage en donnant un système d'expérience et **loot**. Par contre, par expérience première, c'est ***crissment*** plate. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzQwODcwN119
+eyJoaXN0b3J5IjpbLTMwOTcyNzUxM119
 -->
